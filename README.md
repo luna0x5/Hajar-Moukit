@@ -26,7 +26,5 @@
 	</table>
 </div>
 
-[![Hajar Moukit's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=luna0x5&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=dark&show_icons=true)](https://github.com/luna0x5)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=luna0x5&theme=dark&show_icons=true)](https://github.com/luna0x5)
 </p>
