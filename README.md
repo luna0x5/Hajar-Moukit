@@ -2,7 +2,7 @@
 
 <p><h4>Welcome to my GitHub profile! Here's a bit about me:</h4>
 
-- 🎓 I'm a student at **1337LEET**(42NETWORK) coding school
+- 🎓 I'm a student at **1337LEET coding school**
 - 💼 I'm currently working on school projects
 - 👩‍💻 I'm currently learning **C** and **Python** programming languages
 - 📧 If you want to reach me: hajarmoukit0x5@gmail.com<br>
