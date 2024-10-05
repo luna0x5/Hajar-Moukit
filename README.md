@@ -8,10 +8,6 @@
 - 📧 If you want to reach me: hajarmoukit0x5@gmail.com<br>
 <br>
 
-### 42Level 🎲:
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/hmoukit" alt="hmoukit's 42 stats" /></a><br>
-<br>
-
 ### Languages and Tools 🔧⚙️:
 <div >
 	<table>
